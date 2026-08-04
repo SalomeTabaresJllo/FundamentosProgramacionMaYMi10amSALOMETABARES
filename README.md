@@ -1,2 +1,2 @@
-# FundamentosProgramacionMaYMi10amSALOMETABARES
+# FundamentosProgramacionMaYJu10amSALOMETABARES
 Ejercicios Fundmentos de Programacion
