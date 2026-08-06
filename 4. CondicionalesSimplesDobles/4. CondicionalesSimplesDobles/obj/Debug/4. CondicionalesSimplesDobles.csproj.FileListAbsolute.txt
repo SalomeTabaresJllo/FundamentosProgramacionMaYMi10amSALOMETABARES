@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\bin\Debug\_4.CondicionalesSimplesDobles.exe.config
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\bin\Debug\_4.CondicionalesSimplesDobles.exe
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\bin\Debug\_4.CondicionalesSimplesDobles.pdb
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\obj\Debug\4. CondicionalesSimplesDobles.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\obj\Debug\4. CondicionalesSimplesDobles.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\obj\Debug\_4.CondicionalesSimplesDobles.exe
+C:\Users\B09S104est\source\repos\4. CondicionalesSimplesDobles\4. CondicionalesSimplesDobles\obj\Debug\_4.CondicionalesSimplesDobles.pdb
