@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\bin\Debug\6.CondicionalesMultiples.exe.config
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\bin\Debug\6.CondicionalesMultiples.exe
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\bin\Debug\6.CondicionalesMultiples.pdb
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.exe
+C:\Users\B09S104est\source\repos\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.pdb
