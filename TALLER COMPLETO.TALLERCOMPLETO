@@ -1,0 +1,253 @@
+﻿using System;
+
+namespace _7.TALLER_STJ18082026
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // DISEÑAR ALGORITMO DONDE SE INGRESAN 3 NUMEROS Y DECIR CUAL ES EL MAYOR y MENCIONE EL ORDEN DE MAYOR A MENOR
+
+            /*int num1 = 0;
+            int num2 = 0;
+            int num3 = 0;
+            Console.WriteLine("SE DEBE INGRESAR 3 NUMEROS DIFERENTES");
+            Console.WriteLine("INGRESE NUMERO 1 ");
+            num1 = int.Parse(Console.ReadLine());   // int.parse es otra manera de convertir 
+            Console.WriteLine("INGRESE NUMERO 2 ");
+            num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("INGRESE NUMERO 3 ");
+            num3 = int.Parse(Console.ReadLine());
+
+            if (num1 != num2 && num2 != num3 && num3 != num1)
+            {
+                Console.WriteLine("LOS NUMEROS SON DIFERENTES");
+                if (num1 > num2 && num1 > num3)
+                {
+                    if (num2 > num3)
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num1 + " EL MEDIO ES " + num2 + " EL MENOR ES " + num3);
+                    }
+                    else
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num1 + " EL MEDIO ES " + num3 + " EL MENOR ES " + num2);
+                    }
+                }
+                if (num2 > num1 && num2 > num3)
+                {
+                    if (num1 > num3)
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num2 + " EL MEDIO ES " + num1 + " EL MENOR ES " + num3);
+                    }
+                    else
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num2 + " EL MEDIO ES " + num3 + " EL MENOR ES " + num1);
+                    }
+                }
+                if (num3 > num2 && num3 > num1)
+                {
+                    if (num2 > num1)
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num3 + " EL MEDIO ES " + num2 + " EL MENOR ES " + num1);
+                    }
+                    else
+                    {
+                        Console.WriteLine("EL MAYOR ES " + num3 + " EL MEDIO ES " + num1 + " EL MENOR ES " + num2);
+                    }
+                }
+
+            }
+
+            else
+            {
+                Console.WriteLine("DEBE INGRESAR NUMEROS DIFERENTES");
+            }*/
+
+
+            //--------------------------------------------------------------------------------------------------------------------------
+
+            //2. El personaje de un juego puede disparar si cumple con las dos siguientes condiciones: si CUENTA CON MUNICIION Y SE ENCUENTRA EN ESTADO INVNCIBLE
+            //A. PERMITA INGRESAR POR TECLADO SI EL PERSONAJE ESTA EN ESTADO INVENCIBLE, B. LA CANTIDAD DE MUNICION LO ELEGIRA LA MAQUINA 
+            //C. SI ESTA EN ESTADO INVENCIBLE Y ESTA ENTRE 1 Y 10 DISPARA Y TIENE MUNICION, SI NO NO HACER NADA.
+
+
+            /*string estado ;
+            Console.WriteLine("SU PERSONAJE ESTA EN ESTADO INVENCIBLE, DIGITE SI O NO");
+            estado = Console.ReadLine();
+
+            int numero;
+            Random rnd = new Random();
+            numero = rnd.Next(1, 20);//Devuelve un número entre 0 y 19
+            Console.WriteLine(numero);
+
+            if (estado == "si" && numero<=10)
+            {
+                Console.WriteLine("SU PERSONAJE ESTA DISPARRANDO");
+            }
+            else
+            {
+
+            }
+*/
+
+
+
+            //-----------------------------------------------------------------------------------------------------------------------------
+
+            //3. PREGUNTAR 3 PUNTOS CON CORDENADA X Y Y Y CALCULAR DISTANCIA DE CADA PUNTO Y SABER SI SE CUMPLEN LAS CONDCIONES PARA UN TRIANGULO. 
+            // FORMULA DISTANCIA = √((x2 - x1)² + (y2 - y1)²) 
+
+            /* float x1 = 0;
+             float y1 = 0;
+             float x2 = 0;
+             float y2 = 0;
+             float x3 = 0;
+             float y3 = 0;
+
+             Console.WriteLine("DIGITE LAS COORDENADAS X Y Y DESEADAS PARA LOS 3 PUNTOS ");
+             Console.WriteLine("----------------------------------------");
+             Console.WriteLine("PUNTO A");
+             Console.WriteLine("EN X");
+             x1 = float.Parse(Console.ReadLine());
+             Console.WriteLine("EN Y");
+             y1 = float.Parse(Console.ReadLine());
+             Console.WriteLine("----------------------------------------");
+             Console.WriteLine("PUNTO B");
+             Console.WriteLine("EN X");
+             x2 = float.Parse(Console.ReadLine());
+             Console.WriteLine("EN Y");
+             y2 = float.Parse(Console.ReadLine());
+             Console.WriteLine("----------------------------------------");
+             Console.WriteLine("PUNTO C");
+             Console.WriteLine("EN X");
+             x3 = float.Parse(Console.ReadLine());
+             Console.WriteLine("EN Y");
+             y3 = float.Parse(Console.ReadLine());
+
+             float distanciaAYB = (float) Math.Sqrt(Math.Pow((x2-x1),2)+ Math.Pow((y2 - y1), 2));
+             float distanciaBYC = (float)Math.Sqrt(Math.Pow((x3 - x2), 2) + Math.Pow((y3 - y2), 2));
+             float distanciaAYC = (float)Math.Sqrt(Math.Pow((x3 - x1), 2) + Math.Pow((y3 - y1), 2));
+
+
+
+
+
+             Console.WriteLine(" LA DISTANCIA DE PUNTO A A EL PUNTO B ES " + distanciaAYB );
+             Console.WriteLine(" LA DISTANCIA DE PUNTO B A EL PUNTO C ES " + distanciaBYC);
+             Console.WriteLine(" LA DISTANCIA DE PUNTO A A EL PUNTO C ES " + distanciaAYC);
+
+
+             if (distanciaAYB + distanciaBYC > distanciaAYC)
+             {
+                 Console.WriteLine("SE CUMPLE CONDICION 1, REVISEMOS LAS DEMAS  ");
+             }
+             else
+             {
+                 Console.WriteLine("NO SE CUMPLE LA CONDICION, NO PUEDE CREAR TRIANGULO");
+             }
+             if (distanciaAYB + distanciaAYC > distanciaBYC)
+             {
+                 Console.WriteLine("SE CUMPLE CONDICION 2");
+             }
+             else
+             {
+                 Console.WriteLine("NO SE CUMPLE CONDICION 2 NO PUEDE CREAR TRIANGULO");
+
+
+             }
+             if (distanciaBYC + distanciaAYC > distanciaAYB)
+             {
+                 Console.WriteLine("SE CUMPLE CONDICION 3 ");
+             }
+             else
+             {
+                 Console.WriteLine("NO SE CUMPLE CONDICION 3 NO PUEDE CREAR TRIANGULO");
+             }*/
+
+
+            //---------------------------------------------------------------------------------------------------------------------
+
+            //4. CREE UN PROGRAMA DONDE EL USUARIO INGRESA A QUE DIRECCION VA EL PERSONAJE (IZQUIERDA = I), (DERECHA = D) SI NO SE CUMPLE, 
+            //"NO ME PUEDO MOVER EN OTRA DIRECCION"
+
+            /* string respuesta ;
+
+             Console.WriteLine("ME MUEVO DE IZQUIERDA A DERECHA,PRESIONA I PARA IZQUIERDA Y D PARA DERECHA ");
+             respuesta = Console.ReadLine();
+ */
+            /*  if (respuesta == "I")
+              {
+                  Console.WriteLine("ME ESTOY MOVIENDO HACIA LA IZQUIERDA");
+              }
+              else
+              {
+                  if (respuesta == "D")
+                  {
+                      Console.WriteLine("ME ESTOY MOVIENDO HACIA LA DERECHA");
+                  }
+                  else
+                  {
+                      Console.WriteLine("NO PUEDO MOVERME AYUDA");
+                  }
+
+              }*/
+
+
+            //---------------------------------------------------------------------------------------------------------------------------------------
+            //5. PERSONAJE JUEGO, DIFERENTES ACCIONES SEGUN EL CARACTER QUE EL USUARIO INGRESE, 
+            //GENERAR NUMERO ALEATORIO SI > 0 EL PERSONAJE PUEDE HACER ACCIONES SI NO " NO TENGO VIDAS"
+
+            /*//Si el personaje puede realizar acciones, escribir los siguientes mensajes de acuerdo al 
+            carácter que se ingrese: 
+            Si se ingresa ‘c’, mostrar en consola “el personaje está disparando” 
+            Si se ingresa ‘x’, mostrar en consola “el personaje está hablando con la Rana” 
+            Si se ingresa ‘t’, mostrar en consola “el personaje está en modo Turbo” 
+            Si se presiona ‘i’, mostrar en consola “el personaje es Invencible” */
+
+            /*string respuesta;
+            Console.WriteLine("INGRESE LA ACCION DESEADA Y EL SISTEMA DECIDIRA SI PUEDE EJECUTARLA");
+            Console.WriteLine("SI INGRESA C EL PERSONAJE DISPARA");
+            Console.WriteLine("SI INGRESA X HABLA CON LA RANA");
+            Console.WriteLine("SI INGRESA T ACTIVA MODO TURBO");
+            Console.WriteLine("SI INGRESA I ACTIVA MODO INVENCIBLE");
+
+            respuesta = Console.ReadLine();
+
+            int numero;
+            Random rnd = new Random();
+            numero = rnd.Next(1, 6);//Devuelve un número entre 0 y 5
+            Console.WriteLine(numero);
+
+            if (numero > 0)
+            {
+                if (respuesta == "C")
+                {
+                    Console.WriteLine("EL PERSONAJE ESTA DISPARANDO");
+                }
+                if (respuesta == "X")
+                {
+                    Console.WriteLine("EL PERSONAJE HABLA CON LA RANA");
+                }
+                if (respuesta == "T")
+                {
+                    Console.WriteLine("ACTIVANDO MODO TUBO");
+                }
+                if (respuesta == "I")
+                {
+                    Console.WriteLine("ACTIVANDO MODO INVENCIBLE");
+                }
+            }
+            else
+            {
+                Console.WriteLine("EL PERSONAJE NO TIENE VIDAS, NO PUEDE REALIZAR LA ACCION");
+            }*/
+
+            //-------------------------------------------------------------------------------------------------------------
+
+
+            //6.PRUEBA DE ESCRITORIO..?
+        }
+
+    }
+}
+
