@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\bin\Debug\_7.CICLOWHILE.exe.config
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\bin\Debug\_7.CICLOWHILE.exe
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\bin\Debug\_7.CICLOWHILE.pdb
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\obj\Debug\7. CICLOWHILE.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\obj\Debug\7. CICLOWHILE.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\obj\Debug\_7.CICLOWHILE.exe
+C:\Users\B09S104est\source\repos\7. CICLOWHILE\7. CICLOWHILE\obj\Debug\_7.CICLOWHILE.pdb
