@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\bin\Debug\TRABAJODECASA.exe.config
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\bin\Debug\TRABAJODECASA.exe
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\bin\Debug\TRABAJODECASA.pdb
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\obj\Debug\TRABAJODECASA.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\obj\Debug\TRABAJODECASA.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\obj\Debug\TRABAJODECASA.exe
+C:\Users\B09S104est\source\repos\TRABAJODECASA\TRABAJODECASA\obj\Debug\TRABAJODECASA.pdb
