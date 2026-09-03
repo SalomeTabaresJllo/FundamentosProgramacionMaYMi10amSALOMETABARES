@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\bin\Debug\11.EJERCICIOSCH.exe.config
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\bin\Debug\11.EJERCICIOSCH.exe
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\bin\Debug\11.EJERCICIOSCH.pdb
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\obj\Debug\11.EJERCICIOSCH.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\obj\Debug\11.EJERCICIOSCH.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\obj\Debug\11.EJERCICIOSCH.exe
+C:\Users\B09S104est\source\repos\11.EJERCICIOSCH\11.EJERCICIOSCH\obj\Debug\11.EJERCICIOSCH.pdb
