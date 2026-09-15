@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\bin\Debug\14.ArreglosUnidimensionalesSTJ.exe.config
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\bin\Debug\14.ArreglosUnidimensionalesSTJ.exe
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\bin\Debug\14.ArreglosUnidimensionalesSTJ.pdb
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\obj\Debug\14.ArreglosUnidimensionalesSTJ.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\obj\Debug\14.ArreglosUnidimensionalesSTJ.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\obj\Debug\14.ArreglosUnidimensionalesSTJ.exe
+C:\Users\B09S104est\source\repos\14.ArreglosUnidimensionalesSTJ\14.ArreglosUnidimensionalesSTJ\obj\Debug\14.ArreglosUnidimensionalesSTJ.pdb
