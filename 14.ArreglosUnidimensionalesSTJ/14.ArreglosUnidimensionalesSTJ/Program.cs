@@ -81,26 +81,39 @@ namespace _14.ArreglosUnidimensionalesSTJ
 
             int[] numero = new int[15];
 
-            int mayor = 0;
+            int mayor = numero[0];
             int posicionmayor = 0;
 
-            int menor = 0;
+            int menor = numero[0];
             int posicionmenor = 0;
 
             for (int i = 0; i < numero.Length; i++)
             {
-                Console.WriteLine($"INGRESE EL NUMERO DE LA POSICION {i+1}");
+                Console.WriteLine($"INGRESE EL NUMERO DE LA POSICION {i + 1}");
                 numero[i] = int.Parse(Console.ReadLine());
 
-                if ( i ==0 && numero[i]> mayor)
+
+                if (i==0)
+                {
+                     mayor = numero[i];
+                     posicionmayor = i+1;
+
+                     menor = numero[i];
+                     posicionmenor = i+1;
+
+
+                }
+
+                if (numero[i] > mayor)
                 {
                     mayor = numero[i];
-                    posicionmayor = i;
+                    posicionmayor = i+1;
                 }
-                else if (i == 0 && numero[i] < menor)
+                
+                if (numero[i] < menor)
                 {
                     menor = numero[i];
-                    posicionmenor = i;
+                    posicionmenor = i+1;
                 }
             }
 
