@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\bin\Debug\15.ArreglosBidimensionales_Matrices.exe.config
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\bin\Debug\15.ArreglosBidimensionales_Matrices.exe
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\bin\Debug\15.ArreglosBidimensionales_Matrices.pdb
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\obj\Debug\15.ArreglosBidimensionales_Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\obj\Debug\15.ArreglosBidimensionales_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\obj\Debug\15.ArreglosBidimensionales_Matrices.exe
+C:\Users\B09S104est\source\repos\15.ArreglosBidimensionales_Matrices\15.ArreglosBidimensionales_Matrices\obj\Debug\15.ArreglosBidimensionales_Matrices.pdb
