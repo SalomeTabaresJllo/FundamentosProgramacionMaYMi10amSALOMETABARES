@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\bin\Debug\TALLERMATRICES.exe.config
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\bin\Debug\TALLERMATRICES.exe
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\bin\Debug\TALLERMATRICES.pdb
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\obj\Debug\TALLERMATRICES.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\obj\Debug\TALLERMATRICES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\obj\Debug\TALLERMATRICES.exe
+C:\Users\Usuario\source\repos\TALLERMATRICES\TALLERMATRICES\obj\Debug\TALLERMATRICES.pdb
