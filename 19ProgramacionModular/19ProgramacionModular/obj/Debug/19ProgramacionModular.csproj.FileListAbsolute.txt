@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\bin\Debug\19ProgramacionModular.exe.config
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\bin\Debug\19ProgramacionModular.exe
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\bin\Debug\19ProgramacionModular.pdb
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\obj\Debug\19ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\obj\Debug\19ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\obj\Debug\19ProgramacionModular.exe
+C:\Users\B09S104est\source\repos\19ProgramacionModular\19ProgramacionModular\obj\Debug\19ProgramacionModular.pdb
