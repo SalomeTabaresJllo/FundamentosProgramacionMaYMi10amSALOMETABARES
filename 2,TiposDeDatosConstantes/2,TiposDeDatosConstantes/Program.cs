@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _2_TiposDeDatosConstantes
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //CONSTANTES
+
+            const string iva = "19%";
+            string nombre = "SALOME";
+            nombre = "SALO";
+            // iva = "19%" ES UNA CONSTANTE
+
+
+            //TTIPOS DE DATOS
+
+            byte dato1 = 22;
+            int dato2 = -6;
+            ulong dato3 = 60006453408;
+            float dato4 = 8.9f;
+            double dato5 = 8.9;
+            char dato6 = '~';
+            string dato7 = "sybaun69";
+            bool dato8 = true;
+            object dato9 = new object();
+
+
+
+            //NUMERICOS
+
+            //CAMBIO DE SIGNO
+            int dato10 = 5;
+            int dato11 = -dato10;
+            int dato12 = +dato11;
+            int dato13 = -dato12;
+
+
+
+            Console.WriteLine("dato10: {0}, dato11: {1}, dato12: {2}, dato13: {3}", dato10, dato11, dato12, dato13);
+
+            //ARITMETICAS
+            int dato14 = 5 + 3;
+            int dato15 = dato14 - 2;
+            int dato16 = 10 * 3;
+            //float dato17 = 5.0f / 3.0f;
+            //floatdato17 = (float) 5 / 3;
+
+
+            //Incremento - Decremento
+            int dato18 = 1;
+            dato18++;//dato18=dato18+1
+            dato18--;
+            dato18 += 3;//dato18=dato18+3
+            dato18 -= 9;
+            dato18 *= 6;
+            dato18 /= 4;
+        }
+    }
+}
