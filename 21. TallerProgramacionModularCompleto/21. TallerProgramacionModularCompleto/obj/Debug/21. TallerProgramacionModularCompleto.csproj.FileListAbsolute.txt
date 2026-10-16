@@ -1,0 +1,7 @@
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\bin\Debug\_21.TallerProgramacionModularCompleto.exe.config
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\bin\Debug\_21.TallerProgramacionModularCompleto.exe
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\bin\Debug\_21.TallerProgramacionModularCompleto.pdb
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\obj\Debug\21. TallerProgramacionModularCompleto.csproj.AssemblyReference.cache
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\obj\Debug\21. TallerProgramacionModularCompleto.csproj.CoreCompileInputs.cache
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\obj\Debug\_21.TallerProgramacionModularCompleto.exe
+C:\Users\Salome\source\repos\21. TallerProgramacionModularCompleto\21. TallerProgramacionModularCompleto\obj\Debug\_21.TallerProgramacionModularCompleto.pdb
