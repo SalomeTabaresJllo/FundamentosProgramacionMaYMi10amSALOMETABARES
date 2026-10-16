@@ -1,0 +1,7 @@
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\bin\Debug\EJERCICIOSTEAMS.exe.config
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\bin\Debug\EJERCICIOSTEAMS.exe
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\bin\Debug\EJERCICIOSTEAMS.pdb
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\obj\Debug\EJERCICIOSTEAMS.csproj.AssemblyReference.cache
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\obj\Debug\EJERCICIOSTEAMS.csproj.CoreCompileInputs.cache
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\obj\Debug\EJERCICIOSTEAMS.exe
+C:\Users\Salome\source\repos\EJERCICIOSTEAMS\EJERCICIOSTEAMS\obj\Debug\EJERCICIOSTEAMS.pdb
